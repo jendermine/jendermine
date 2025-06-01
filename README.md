@@ -27,7 +27,7 @@
 
 [Created PRs](https://github.com/pulls?q=is%3Apr+author%3Ajendermine+-user%3Ajendermine) ·
 [Merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ajendermine+is%3Amerged+) ·
-[Reviewed PRs](https://github.com/pulls?q=is%3Apr+reviewed-by%3Ajendermine+-user%3jendermine) ·
+[Reviewed PRs](https://github.com/pulls?q=is%3Apr+reviewed-by%3Ajendermine+-user%3Ajendermine) ·
 [All Involvements](https://github.com/pulls?q=involves%3Ajendermine+-user%3Ajendermine)
 
 ### ⚙️ &nbsp;Jendermine's GitHub Analytics
