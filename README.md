@@ -1,4 +1,4 @@
-<picture><source media="(max-width: 620px) and (prefers-color-scheme: dark)" srcset="assets/card-compact-dark.svg"><source media="(max-width: 620px)" srcset="assets/card-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg"><img src="assets/card-light.svg" width="100%" alt="jendermine, Android platform and full-stack developer"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg"><img src="assets/card-light.svg" width="100%" alt="jendermine, Android platform and full-stack developer"></picture>
 
 I work from the Linux kernel and AOSP up through iOS and Android apps in Flutter, Node.js backends and React and Next.js frontends, mainly in Java, Kotlin, C, TypeScript and Python. I also build command-line tools in Go and Rust.
 
