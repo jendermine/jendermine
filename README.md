@@ -31,4 +31,6 @@ Contributed to [KDE Connect for Android](https://invent.kde.org/network/kdeconne
 
 See the pull requests I have [created](https://github.com/pulls?q=is%3Apr+author%3Ajendermine+-user%3Ajendermine), [merged](https://github.com/pulls?q=is%3Apr+author%3Ajendermine+is%3Amerged+) and [reviewed](https://github.com/pulls?q=is%3Apr+reviewed-by%3Ajendermine+-user%3Ajendermine).
 
-Reach me at [jendermine@gmail.com](mailto:jendermine@gmail.com).
+### Connect
+
+<p><a href="https://github.com/jendermine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg"><img src="assets/btn-github-light.svg" height="60" alt="GitHub"></picture></a><a href="https://www.linkedin.com/in/rohit-ghosh-b4013724b/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="60" alt="LinkedIn"></picture></a><a href="https://t.me/jendermine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-telegram-dark.svg"><img src="assets/btn-telegram-light.svg" height="60" alt="Telegram"></picture></a><a href="https://x.com/jendermean"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-x-dark.svg"><img src="assets/btn-x-light.svg" height="60" alt="Twitter / X"></picture></a><a href="mailto:jendermine@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="60" alt="Email"></picture></a></p>
