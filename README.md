@@ -4,6 +4,8 @@ Android platform and full-stack developer. I work from the Linux kernel and AOSP
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [Penguin Dialer](https://github.com/Project-PenguinOS/penguin_packages_apps_Dialer) | Android dialer with a floating Liquid Glass tab bar and app and caller details on VoIP calls | Java |
+| [Penguin Keyboard](https://github.com/Project-PenguinOS/penguin_packages_inputmethods_LatinIME) | LatinIME keyboard with an iOS Liquid Glass theme | Java |
 | [tg-bridge](https://github.com/jendermine/tg-bridge) | Sends prompts and images from Telegram to live coding-agent sessions on Linux | Python |
 | [penguindex-go](https://github.com/jendermine/penguindex-go) | Uploads and manages Google Drive files from the command line | Go |
 | [rust-encrypt-util](https://github.com/jendermine/rust-encrypt-util) | Encrypts credentials with PBKDF2 and AES-256-GCM | Rust |
